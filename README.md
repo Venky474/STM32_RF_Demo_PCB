@@ -1,15 +1,17 @@
-# STM32_RF Demo PCB
+# STM32_RF_Demo_PCB
 
-This is a KiCad-based PCB project for an STM32-based RF application.
+This is a custom STM32 RF PCB designed using KiCad.
 
-## Project Files
-- Schematic: `STM32_RF.kicad_sch`
-- PCB Layout: `STM32_RF.kicad_pcb`
-- Project File: `STM32_RF.kicad_pro`
-- Symbols & Footprints: `STM32_RF.pretty`, `*.kicad_sym`, `sym-lib-table`
+## Contents
+- 🧩 KiCad Project Files (`.kicad_pro`, `.kicad_pcb`, `.kicad_sch`)
+- 📦 Gerber Files (in `.rar`)
+- 📄 BOM: `BOM_Output.csv`
+- 🤖 Pick and Place: `STM32_RF.cpl`
+
+## Preview
+
+*(Insert PCB render or screenshot here if available)*
 
 ## License
-[MIT](LICENSE) or choose your own
+[MIT](LICENSE) or specify your own
 
-## Author
-Venky
