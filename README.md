@@ -10,7 +10,8 @@ This is a custom STM32 RF PCB designed using KiCad.
 
 ## Preview
 
-*(STM_RF.PNG)*
+Preview of the STM32_RF PCB layout (generated using KiCad 3D viewer).
+![3D PCB View](STM32_RF.png)
 
 ## License
 [MIT](LICENSE) or specify your own
