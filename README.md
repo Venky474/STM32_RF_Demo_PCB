@@ -10,7 +10,7 @@ This is a custom STM32 RF PCB designed using KiCad.
 
 ## Preview
 
-*(Insert PCB render or screenshot here if available)*
+*(STM_RF.PNG)*
 
 ## License
 [MIT](LICENSE) or specify your own
